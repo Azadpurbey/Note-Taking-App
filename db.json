@@ -7,22 +7,10 @@
       "reminder": true
     },
     {
-        "id": 2,
-        "text": "Grocree work",
-        "day": "Feb 5th at 2:30pm",
-        "reminder": false
-    },
-    {
-        "id": 3,
-        "text": "Office Appointment",
-        "day": "Aug 5th at 2:30pm",
-        "reminder": true
-    },
-    {
-        "id": 4,
-        "text": "College Attendence",
-        "day": "Aug 5th at 2:30pm",
-        "reminder": false
+      "text": "Finish Work",
+      "day": "1Feb at 3pm",
+      "reminder": false,
+      "id": 3
     }
   ]
 }

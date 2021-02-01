@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+        "id": 2,
+        "text": "Grocree work",
+        "day": "Feb 5th at 2:30pm",
+        "reminder": false
+    },
+    {
+        "id": 3,
+        "text": "Office Appointment",
+        "day": "Aug 5th at 2:30pm",
+        "reminder": true
+    },
+    {
+        "id": 4,
+        "text": "College Attendence",
+        "day": "Aug 5th at 2:30pm",
+        "reminder": false
+    }
+  ]
+}
